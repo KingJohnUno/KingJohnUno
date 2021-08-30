@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingJohnUno
+- 👋 Hi, I’m @landless_john
 - 👀 I’m interested in playing videogames, learning programming stuff
 - 🌱 I’m currently learning python, java, c++
 - 💞️ I’m looking to collaborate on nothing, for now
